@@ -34,33 +34,5 @@ Contém exemplos de código relacionados a coleções em Java.
 - `Mapas.java`: Exemplos de uso da interface Map e suas implementações.
 - `Conjuntos.java`: Exemplos de uso da interface Set e suas implementações.
 
-## Como Executar
 
-1. Navegue até a pasta do projeto:
-    ```sh
-    cd /C:/Users/Kaiky Alencar/Projetos Alencar/JAVA - Dio/estudos/dio-trilha-java-basico
-    ```
 
-2. Compile o código-fonte:
-    ```sh
-    javac -d bin src/**/*.java
-    ```
-
-3. Execute o programa:
-    ```sh
-    java -cp bin MainClass
-    ```
-
-## Contribuição
-
-Sinta-se à vontade para contribuir com este projeto. Para isso, siga os passos abaixo:
-
-1. Faça um fork deste repositório.
-2. Crie uma branch para sua feature (`git checkout -b feature/nova-feature`).
-3. Commit suas mudanças (`git commit -m 'Adiciona nova feature'`).
-4. Faça um push para a branch (`git push origin feature/nova-feature`).
-5. Abra um Pull Request.
-
-## Licença
-
-Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
